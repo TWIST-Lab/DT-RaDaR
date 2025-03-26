@@ -8,15 +8,15 @@ This experiment introduces the novel framework for robot navigation developed us
 
 ## Files
 
-The DQN algorithm was created using the pytorch library.
 The DQN_with_all_data_obstacle_Dallas_pytorch.py and DQN_with_all_data_obstacle_Houston_pytorch.py files contains the DQN code used for training on the Dallas and Houston cities' digital twins respectively. 
+
 The DQN_predict_with_all_data_Dallas_pytorch.py and DQN_predict_with_all_data_obstacle_Houston_pytorch.py files contains the code used for performing the inference on the Dallas and Houston cities' digital twins respectively.
 
 ## Setup and Prerequisites
 
 ### Prerequisites
 
-Before running the MARL.py file make sure you have the following installed.
+The DQN algorithm was created using the pytorch library. Before running the python files make sure you have the following installed.
 
 - Ubuntu OS or Windows
 - Python3 - [Download](https://www.python.org/downloads/)
